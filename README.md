@@ -1,3 +1,3 @@
 # Mini_demo
 this is my first Git repository. 
-Author_Ghulam Mustafa
+Author_Ghulam Mustafa (soomro)
